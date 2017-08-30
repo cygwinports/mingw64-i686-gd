@@ -2,8 +2,8 @@ CROSS_HOST="i686-w64-mingw32"
 inherit cross
 
 NAME="mingw64-i686-gd"
-VERSION=2.2.4
-RELEASE=2
+VERSION=2.2.5
+RELEASE=1
 CATEGORY="Devel"
 SUMMARY="Dynamic image creation library for Win32 toolchain"
 DESCRIPTION="GD is an open source code library for the dynamic creation of images by programmers.
